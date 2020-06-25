@@ -1,0 +1,10 @@
+.something , td 
+{
+	border : solid purple ; 
+}
+
+li:hover , li:active 
+{
+	color : purple ;
+	text-decoration: underline;
+}
